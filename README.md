@@ -1,6 +1,6 @@
 # React Boutique Shop
 
-### In the home page the products can be chosen from the search input field.
+###### In the home page the products can be chosen from the search input field.
 
 ### If the user is already logged in he can directly place the order otherwise he needs to register.
 
